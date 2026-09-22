@@ -1,6 +1,7 @@
 This is an unofficial translation tool and is not affiliated with or endorsed by Nine Gates / Omochi Nobiru.
-Please download and install the Blender Add-on before applying this patch.<img width="573" height="287" alt="Illustration3" src="https://github.com/user-attachments/assets/5dacc891-d2cd-4ced-9300-ac91f1c8fcd4" />
+Please download and install the Blender Add-on before applying this patch.
 
+<img width="573" height="287" alt="Illustration3" src="https://github.com/user-attachments/assets/5dacc891-d2cd-4ced-9300-ac91f1c8fcd4" />
 
 This is an external tool that changes the string text in the UI of the Blender Add-on for Mochi Fitter.
 This was unfortunately made with AI because I haven't ever used python.
