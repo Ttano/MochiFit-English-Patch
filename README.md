@@ -27,10 +27,3 @@ Mochi Fitter Blender Add-on: https://drive.google.com/file/d/1T7GLfY_vkXNU2XxaRt
 <img width="963" height="916" alt="Illustration3" src="https://github.com/user-attachments/assets/2cc244db-b4a6-4bd5-a8fb-783b05379dd1" />
 Also recommended, if not required: https://github.com/sentfromspacevr/robust-weight-transfer/releases/download/v1.1.6/robust-weight-transfer-v1.1.6.zip
 
-
-
-Mochi FitterというBlenderアドオンのメインUIの日本語表示を英語に変更するプログラムを作成しました。
-現在、GitHubにコードを公開していますので、よろしければご覧になってみてください。
-
-可能であればこれを公開したいのですが、まずは許可をいただきたいと思います。
-
