@@ -5,16 +5,13 @@ Please download and install the Blender Add-on before applying this patch.
 
 This is an external tool that changes the string text in the UI of the Blender Add-on for Mochi Fitter.
 This was unfortunately made with AI because I haven't ever used python.
-
 Target your blender add-on. It's usually in C:\Users\UserName\AppData\Roaming\Blender Foundation\Blender\5.0\scripts\addons\MochiFitter
 
 It works by finding the names and replacing them with an english equivalent, while also creating a backup .bak of the original unmodified scripts so you can revert it easily again with the same tool.
 
 これは、Mochi Fitter用BlenderアドオンのUI内の文字列を変更する外部ツールです。
 残念ながら、私はPythonを使ったことがないので、AIを使って作成しました。
-
 Blenderアドオンをターゲットにしてください。通常、以下のパスにあります：C:\Users\UserName\AppData\Roaming\Blender Foundation\Blender\5.0\scripts\addons\MochiFitter
-
 このツールは、スクリプト内の名前を検索して英語の相当語に置き換えると同時に、元の変更前のスクリプトのバックアップ（.bak）を作成します。これにより、同じツールを使って簡単に元に戻すことができます。
 可能であればこれを公開したいのですが、まずは許可をいただきたいと思います。
 
