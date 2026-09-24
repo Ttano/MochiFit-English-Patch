@@ -5,6 +5,9 @@ This is an ***unofficial translation tool and is not affiliated with or endorsed
 
 This tool changes the string text in the UI of the Blender Add-on for Mochi Fitter (and was unfortunately made with AI because I haven't ever used python.)
 
+# How to download the translator .exe: #
+ <img width="1013" height="531" alt="dldf" src="https://github.com/user-attachments/assets/3dbee5a0-62cd-44c2-bd0e-0e1504300e4a" />
+ 
 # HOW TO USE #
 1. [REQUIRED] Download the Mochi Fitter Blender Add-on:
   https://drive.google.com/file/d/1T7GLfY_vkXNU2XxaRt__Fos8s7tmADYX/view?usp=sharing
@@ -15,12 +18,7 @@ This tool changes the string text in the UI of the Blender Add-on for Mochi Fitt
 6. Target your blender add-on. It's usually in C:\Users\UserName\AppData\Roaming\Blender Foundation\Blender\5.0\scripts\addons\MochiFitter
 7. Click the green button to translate, and the red button to revert the add-on UI back to the original Japanese
 8. Close and then re-open Blender to refresh the add-on any time you run the .exe file
-
-
-# How to download the translator .exe: #
- <img width="1013" height="531" alt="dldf" src="https://github.com/user-attachments/assets/3dbee5a0-62cd-44c2-bd0e-0e1504300e4a" />
-
-
+9. 
 <img width="1229" height="1205" alt="mochifitterEN" src="https://github.com/user-attachments/assets/7d8b23f5-aad2-4162-a45c-c55ae8922c1f" />
 
 # HOW IT WORKS #
