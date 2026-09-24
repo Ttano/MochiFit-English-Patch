@@ -18,7 +18,7 @@ This tool changes the string text in the UI of the Blender Add-on for Mochi Fitt
 6. Target your blender add-on. It's usually in C:\Users\UserName\AppData\Roaming\Blender Foundation\Blender\5.0\scripts\addons\MochiFitter
 7. Click the green button to translate, and the red button to revert the add-on UI back to the original Japanese
 8. Close and then re-open Blender to refresh the add-on any time you run the .exe file
-9. 
+   
 <img width="1229" height="1205" alt="mochifitterEN" src="https://github.com/user-attachments/assets/7d8b23f5-aad2-4162-a45c-c55ae8922c1f" />
 
 # HOW IT WORKS #
